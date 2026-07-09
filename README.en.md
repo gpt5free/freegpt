@@ -1,5 +1,15 @@
 # Free2AI Free AI Relay Gateway Cluster
 
+## Quick Access
+
+| Entry | URL |
+| --- | --- |
+| GPT5.6 Channel | https://pay.kklt.lol/ |
+| Claude4.8 Channel | https://fuckme.443.hk/ |
+| Open Free2AI Free Navigation | https://free2ai.pages.dev/ |
+| Telegram Support | https://t.me/kkscshop |
+
+
 Free2AI is a free AI relay gateway cluster for AI users, developers, automation builders, and AIGC creators:  
 https://free2ai.pages.dev/
 
