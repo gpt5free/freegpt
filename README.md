@@ -1,5 +1,15 @@
 # Free2AI 免费 AI 中转站集群
 
+## 快速入口
+
+| 入口 | 地址 |
+| --- | --- |
+| GPT5.6通道 | https://pay.kklt.lol/ |
+| Claude4.8通道 | https://fuckme.443.hk/ |
+| 打开 Free2AI 免费导航 | https://free2ai.pages.dev/ |
+| 电报客服咨询 | https://t.me/kkscshop |
+
+
 Free2AI 是一个面向 AI 用户、开发者、自动化玩家和 AIGC 创作者的免费 AI 中转站集群入口：  
 https://free2ai.pages.dev/
 
